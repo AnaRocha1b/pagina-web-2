@@ -1,0 +1,29 @@
+body {
+    color: black;
+    background: beige;
+    margin: 0px;
+    font-family: "Lora", serif;
+}
+
+header {
+    border-bottom: solid 2px darkgreen;
+    padding: 20px;
+    font-size: 32px;
+    color: darkgreen;
+}
+
+section {
+    background: rgb(211, 196, 173);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 3%;
+}
+
+h1 {
+    font-size: 40px;
+}
